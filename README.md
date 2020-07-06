@@ -1,2 +1,2 @@
 # TouchDesigner
-TouchDesigner tox and toes.
+TouchDesigner toxes and toes.
